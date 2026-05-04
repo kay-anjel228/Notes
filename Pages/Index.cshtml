@@ -1,8 +1,9 @@
 ﻿@page
-@model IndexModel
+@model StudyNoteProject.Pages.Shared.IndexModel
 @{
-    ViewData["Title"] = "Главная";
+	ViewData["Title"] = "Главная";
 }
+
 <div class="container mt-5">
 	<div class="row justify-content-center">
 		<div class="col-md-8 col-lg-6">
@@ -69,19 +70,23 @@
                                         <label class="form-label">Логин</label>
                                         <input asp-for="LoginLogin" class="form-control" />
                                     </div>
+
                                     <div class="mb-3">
                                         <label class="form-label">Пароль</label>
 
+                                        <div class="input-group">
+                                            <input id="loginPassword"
+                                                   asp-for="LoginPassword"
+                                                   type="password"
+                                                   class="form-control" />
 
-                                        <input asp-for="LoginPassword" type="password" class="form-control" id="PasswordVisibilityI" />
-                                        <label id="labelId">
-                                            <input type="checkbox" onclick="togglePassword('loginPassword', this)"> Показать
-                                        </label>
+                                            <button type="button"
+                                                    class="btn btn-outline-secondary"
+                                                    onclick="togglePassword('loginPassword', this)">
+                                                Показать
+                                            </button>
+                                        </div>
                                     </div>
-
-                                    <button type="submit" class="btn btn-primary w=100">
-                                        Войти
-                                    </button>
                                 </form>
                             </div>
 
@@ -102,7 +107,7 @@
                                     </div>
                                     <div class="mb-3">
                                         <label class="form-label">Повторите пароль</label>
-                                        <input asp-for="RegistrRepeatPassword" type="password" class="form-control" />
+                                        <input asp-for="RegisterRepeatPassword" type="password" class="form-control" />
                                     </div>
                                     <button type="submit" class="btn btn-primary w=100">
                                         Зарегистрироваться
@@ -116,5 +121,3 @@
 		</div>
 	</div>
 </div>
-
-

@@ -27,7 +27,7 @@ namespace StudyNoteProject.Services
                 return null;
             }
 
-            return _context.Users.FirstOrDefault(u => u.Id == userId.Value);
+            return _context.User.FirstOrDefault(u => u.Id == userId.Value);
         }
 
         public void SignIn(HttpContext httpContext, int userId)

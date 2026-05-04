@@ -1,4 +1,5 @@
 ﻿using StudyNoteProject.Data;
+using Microsoft.EntityFrameworkCore;
 using StudyNoteProject.Models;
 using StudyNoteService.Services;
 namespace StudyNoteProject.Services

@@ -1,12 +1,13 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc;
 using StudyNoteProject.Data;
 using StudyNoteProject.Models;
 using StudyNoteProject.Services;
 
-namespace SchoolHub.Pages
+namespace StudyNoteProject.Pages.Shared
 {
     public class IndexModel : PageModel
     {
@@ -54,7 +55,7 @@ namespace SchoolHub.Pages
                 return Page();
             }
 
-            if (_context.Users.Any(u => u.Login == RegisterLogin))
+            if (_context.User.Any(u => u.Login == RegisterLogin))
             {
                 Message = "Пользователь с таким логином уже существует";
                 return Page();
@@ -72,7 +73,7 @@ namespace SchoolHub.Pages
 
             user.HashPassword = _passwordHasher.HashPassword(user, RegisterPassword);
 
-            _context.Users.Add(user);
+            _context.User.Add(user);
             _context.SaveChanges();
 
             _currentUserService.SignIn(HttpContext, user.Id);
@@ -88,7 +89,7 @@ namespace SchoolHub.Pages
                 Message = "Введите логин и пароль.";
                 return Page();
             }
-            var user = _context.Users.FirstOrDefault(u => u.Login == LoginLogin);
+            var user = _context.User.FirstOrDefault(u => u.Login == LoginLogin);
 
             if (user == null)
             {
@@ -110,6 +111,23 @@ namespace SchoolHub.Pages
             _currentUserService.SignIn(HttpContext, user.Id);
 
             return RedirectToPage();
+        }
+
+        private void LoadUser()
+        {
+
+            var user = _currentUserService.GetCurrentUser(HttpContext); ;
+
+            if (user == null)
+            {
+                IsAuthorized = false;
+                HttpContext.Session.Clear();
+                return;
+            }
+            IsAuthorized = true;
+            CurrentUserName = user.Name;
+            CurrentUserLogin = user.Login;
+
         }
     }
 }

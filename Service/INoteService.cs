@@ -2,7 +2,7 @@
 
 namespace StudyNoteService.Services
 {
-    public interface IProjectService
+    public interface INoteService
     {
         List<Notes> GetAllNotes();
         List<Notes> GetNoteByAuthorId(int authorId);
