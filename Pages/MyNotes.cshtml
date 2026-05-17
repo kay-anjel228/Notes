@@ -1,0 +1,59 @@
+﻿@page
+@model StudyNoteProject.Pages.MyNotesModel
+@{
+    ViewData["Title"] = "Мои заметки";
+}
+
+<div class="container mt-4">
+    <div class="row mb-3">
+        <div class="col">
+            <h1>Учебные заметки</h1>
+            <p class="text-muted fs-5 m-0">Пользователь: <span class="text-primary fw-semibold">@Model.CurrentUserName</span></p>
+            <span class="badge bg-success fs-6 mt-1">Всего заметок: @Model.UserNotes.Count</span>
+
+            <div class="mt-2 mb-4">
+                <a asp-page="/AddNotes" class="btn btn-primary">Добавить заметку</a>
+                <a asp-page="/Index" class="btn btn-secondary">В меню</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-0">
+        @if (Model.UserNotes.Count == 0)
+        {
+            <div class="alert alert-light text-center border py-4">
+                <h4>У вас пока нету заметок.</h4>
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var note in Model.UserNotes)
+                {
+                    <div class="col-md-6 mb-3">
+                        <div class="card">
+                            <div class="card-header d-flex justify-content-between">
+                                <span><b>Предмет:</b> @note.Title</span>
+                                <span class="badge bg-primary">@note.Category</span>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text" style="white-space: pre-line;">@note.Description</p>
+                            </div>
+                            <div class="card-footer d-flex justify-content-between align-items-center">
+                                <small class="text-muted">Создано: @note.CreatedAt.ToString("dd.MM.yyyy HH:mm")</small>
+
+                                <div class="d-flex gap-2">
+                                    <a asp-page="/AddNotes" asp-route-id="@note.Id" class="btn btn-sm btn-warning">Редактировать</a>
+
+                                    <form method="post" asp-page-handler="DeleteNote" asp-route-noteId="@note.Id">
+                                        <button type="submit" class="btn btn-sm btn-danger">Удалить</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>

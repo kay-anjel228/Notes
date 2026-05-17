@@ -219,3 +219,670 @@ C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\StudyN
 C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\StudyNoteProject\obj\Debug\net9.0\compressed\3ikv3xe69d-vdmmrd8tt3.gz
 C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\StudyNoteProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\StudyNoteProject\obj\Debug\net9.0\compressed\c7iwohstg7-xp3x2n5kfn.gz
+C:\Users\badma\Source\Repos\Notes\obj\Debug\net9.0\StudyNoteProject.dll
+C:\Users\badma\Source\Repos\Notes\obj\Debug\net9.0\refint\StudyNoteProject.dll
+C:\Users\badma\Source\Repos\Notes\obj\Debug\net9.0\StudyNoteProject.pdb
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\appsettings.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.runtime.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.endpoints.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.exe
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.deps.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.runtimeconfig.json
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\StudyNoteProject.pdb
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Humanizer.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\badma\source\repos\Notes\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.AssemblyReference.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfoInputs.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfo.cs
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.CoreCompileInputs.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cs
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.sourcelink.json
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\scopedcss\bundle\StudyNoteProject.styles.css
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\scopedcss\projectbundle\StudyNoteProject.bundle.scp.css
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\nbmusijhew-b9sayid5wm.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\k5k83m8ilg-61n19gt1b8.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\c7iwohstg7-xp3x2n5kfn.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\3577f7sukf-t1cqhe9u97.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\0lbmckbzr7-c2jlpeoesf.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\dn5hgeowl2-sejl45xvog.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\8fxrp6wg4p-aexeepp0ev.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\8eaakq66yy-xvp3kq03qx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\t7jlnudn9v-ausgxo2sd3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\rbvo7uneag-22vffe00uq.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\a18jtsmjtf-cosvhxvwiu.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\ljora6ey48-qesaa3a1fm.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\6q3dr6a0w3-fvhpjtyr6v.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\7h0rdjif09-tmc1g35s3z.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\wmq9os95l8-fsbi9cje9m.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\f85x6bhc9i-rxsg74s51o.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\u4tcfgw4wy-ee0r1s7dh0.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\364jzbltbn-q9ht133ko3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\3atd29fhst-jd9uben2k1.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\4gn7e5ghy5-gye83jo8yx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\15oeigblee-r4e9w2rdcm.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\kd7zabk0e7-wl58j5mj3v.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\gzianq1za3-c2oey78nd0.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\9lggeo1h7u-d4r6k3f320.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\wvzx1pz34c-j5mq2jizvt.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\xdix6r03kg-keugtjm085.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\9vqe67t91v-nvvlpmu67g.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\1sv9t8tx5j-zub09dkrxp.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\g4phvqn6ki-pj5nd1wqec.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\dryamkze49-43atpzeawx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\18yd85pdgs-v0zj4ognzu.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\fgr7e9bk12-ynyaa8k90p.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\ful6swbo96-hrwsygsryq.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\gfw3s01epx-c63t5i9ira.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\gu4rujhmoz-ft3s53vfgj.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\vj92u8c89j-4094rpi4f9.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\heyyuv3adx-6pdc2jztkx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\wgo9a2v5d7-hd3gran6i8.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\jgar8oo36w-iovd86k7lj.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\z09kdjj1r7-ltid2c489k.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\ha3fm2gfjo-kbrnm935zg.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\5vqywcz5dv-8vyfqsqgz1.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\1p2ji96imy-y7v9cxd14o.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\49nxs201du-u9q1upor1n.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\nw2ug1id5l-h1s4sie4z3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\wth69e65x1-4d85u1mtcx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\nue0xhqvho-0j3bgjxly4.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\k4vx4yei2q-03hjc8e09r.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\a0mc89dpo6-48y08845bh.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\0cfzm1qc69-356vix0kms.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\7481j79q1v-83jwlth58m.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\54vgqfe22u-mrlpezrjn3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\irquof7fh5-worgj0nhwm.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\dubr0vvef5-gk0pw8i4co.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\pl0ol9tkv5-x0q3zqp4vz.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\w96qw5m2f9-d6nrnj6jjx.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\41f5rgtot7-m9qm4tazc0.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\lrfgo92w2p-ttgo8qnofa.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\l9nx3wndf8-jjsuc0puko.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\tedta6n9g1-9vr69e8ynj.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\0l7ww8ksum-87fc7y1x7t.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\xa1fmx6db0-mlv21k5csn.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\xmglhbl0jp-vdmmrd8tt3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\compressed\3ikv3xe69d-vdmmrd8tt3.gz
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets\msbuild.StudyNoteProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets\msbuild.StudyNoteProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets\msbuild.build.StudyNoteProject.props
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StudyNoteProject.props
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StudyNoteProject.props
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNot.DE046379.Up2Date
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\StudyNoteProject.genruntimeconfig.cache
+C:\Users\badma\source\repos\Notes\obj\Debug\net9.0\ref\StudyNoteProject.dll
+E:\studyn\Notes\bin\Debug\net9.0\appsettings.Development.json
+E:\studyn\Notes\bin\Debug\net9.0\appsettings.json
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.runtime.json
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.endpoints.json
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.exe
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.deps.json
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.runtimeconfig.json
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.dll
+E:\studyn\Notes\bin\Debug\net9.0\StudyNoteProject.pdb
+E:\studyn\Notes\bin\Debug\net9.0\Humanizer.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\studyn\Notes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\studyn\Notes\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\studyn\Notes\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+E:\studyn\Notes\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+E:\studyn\Notes\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.CodeDom.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\studyn\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\studyn\Notes\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.AssemblyReference.cache
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfoInputs.cache
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfo.cs
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.CoreCompileInputs.cache
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.MvcApplicationPartsAssemblyInfo.cache
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cache
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cs
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.sourcelink.json
+E:\studyn\Notes\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\studyn\Notes\obj\Debug\net9.0\scopedcss\bundle\StudyNoteProject.styles.css
+E:\studyn\Notes\obj\Debug\net9.0\scopedcss\projectbundle\StudyNoteProject.bundle.scp.css
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets.build.json
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets.development.json
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\studyn\Notes\obj\Debug\net9.0\StudyNot.DE046379.Up2Date
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.dll
+E:\studyn\Notes\obj\Debug\net9.0\refint\StudyNoteProject.dll
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.pdb
+E:\studyn\Notes\obj\Debug\net9.0\StudyNoteProject.genruntimeconfig.cache
+E:\studyn\Notes\obj\Debug\net9.0\ref\StudyNoteProject.dll
+E:\studyn\Notes\bin\Debug\net9.0\System.Text.Json.dll
+E:\studyn\Notes\obj\Debug\net9.0\compressed\nbmusijhew-b9sayid5wm.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\k5k83m8ilg-61n19gt1b8.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\c7iwohstg7-xp3x2n5kfn.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\3577f7sukf-t1cqhe9u97.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\0lbmckbzr7-c2jlpeoesf.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\dn5hgeowl2-sejl45xvog.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\8fxrp6wg4p-aexeepp0ev.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\8eaakq66yy-xvp3kq03qx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\t7jlnudn9v-ausgxo2sd3.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\rbvo7uneag-22vffe00uq.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\a18jtsmjtf-cosvhxvwiu.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\ljora6ey48-qesaa3a1fm.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\6q3dr6a0w3-fvhpjtyr6v.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\7h0rdjif09-tmc1g35s3z.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\wmq9os95l8-fsbi9cje9m.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\f85x6bhc9i-rxsg74s51o.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\u4tcfgw4wy-ee0r1s7dh0.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\364jzbltbn-q9ht133ko3.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\3atd29fhst-jd9uben2k1.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\4gn7e5ghy5-gye83jo8yx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\15oeigblee-r4e9w2rdcm.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\kd7zabk0e7-wl58j5mj3v.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\gzianq1za3-c2oey78nd0.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\9lggeo1h7u-d4r6k3f320.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\wvzx1pz34c-j5mq2jizvt.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\xdix6r03kg-keugtjm085.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\9vqe67t91v-nvvlpmu67g.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\1sv9t8tx5j-zub09dkrxp.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\g4phvqn6ki-pj5nd1wqec.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\dryamkze49-43atpzeawx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\18yd85pdgs-v0zj4ognzu.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\fgr7e9bk12-ynyaa8k90p.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\ful6swbo96-hrwsygsryq.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\gfw3s01epx-c63t5i9ira.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\gu4rujhmoz-ft3s53vfgj.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\vj92u8c89j-4094rpi4f9.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\heyyuv3adx-6pdc2jztkx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\wgo9a2v5d7-hd3gran6i8.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\jgar8oo36w-iovd86k7lj.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\z09kdjj1r7-ltid2c489k.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\ha3fm2gfjo-kbrnm935zg.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\5vqywcz5dv-8vyfqsqgz1.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\1p2ji96imy-y7v9cxd14o.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\49nxs201du-u9q1upor1n.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\nw2ug1id5l-h1s4sie4z3.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\wth69e65x1-4d85u1mtcx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\nue0xhqvho-0j3bgjxly4.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\k4vx4yei2q-03hjc8e09r.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\a0mc89dpo6-48y08845bh.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\0cfzm1qc69-356vix0kms.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\7481j79q1v-83jwlth58m.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\54vgqfe22u-mrlpezrjn3.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\irquof7fh5-worgj0nhwm.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\dubr0vvef5-gk0pw8i4co.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\pl0ol9tkv5-x0q3zqp4vz.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\w96qw5m2f9-d6nrnj6jjx.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\41f5rgtot7-m9qm4tazc0.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\lrfgo92w2p-ttgo8qnofa.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\l9nx3wndf8-jjsuc0puko.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\tedta6n9g1-9vr69e8ynj.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\0l7ww8ksum-87fc7y1x7t.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\xa1fmx6db0-mlv21k5csn.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\xmglhbl0jp-vdmmrd8tt3.gz
+E:\studyn\Notes\obj\Debug\net9.0\compressed\3ikv3xe69d-vdmmrd8tt3.gz
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets\msbuild.StudyNoteProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets\msbuild.StudyNoteProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets\msbuild.build.StudyNoteProject.props
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StudyNoteProject.props
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StudyNoteProject.props
+E:\studyn\Notes\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.runtime.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.staticwebassets.endpoints.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.exe
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.deps.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\StudyNoteProject.pdb
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Humanizer.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.sourcelink.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\scopedcss\bundle\StudyNoteProject.styles.css
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\scopedcss\projectbundle\StudyNoteProject.bundle.scp.css
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\nbmusijhew-b9sayid5wm.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\k5k83m8ilg-61n19gt1b8.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\c7iwohstg7-xp3x2n5kfn.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\3577f7sukf-t1cqhe9u97.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\0lbmckbzr7-c2jlpeoesf.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\dn5hgeowl2-sejl45xvog.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\8fxrp6wg4p-aexeepp0ev.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\8eaakq66yy-xvp3kq03qx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\t7jlnudn9v-ausgxo2sd3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\rbvo7uneag-22vffe00uq.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\a18jtsmjtf-cosvhxvwiu.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\ljora6ey48-qesaa3a1fm.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\6q3dr6a0w3-fvhpjtyr6v.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\7h0rdjif09-tmc1g35s3z.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\wmq9os95l8-fsbi9cje9m.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\f85x6bhc9i-rxsg74s51o.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\u4tcfgw4wy-ee0r1s7dh0.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\364jzbltbn-q9ht133ko3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\3atd29fhst-jd9uben2k1.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\4gn7e5ghy5-gye83jo8yx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\15oeigblee-r4e9w2rdcm.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\kd7zabk0e7-wl58j5mj3v.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\gzianq1za3-c2oey78nd0.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\9lggeo1h7u-d4r6k3f320.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\wvzx1pz34c-j5mq2jizvt.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\xdix6r03kg-keugtjm085.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\9vqe67t91v-nvvlpmu67g.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\1sv9t8tx5j-zub09dkrxp.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\g4phvqn6ki-pj5nd1wqec.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\dryamkze49-43atpzeawx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\18yd85pdgs-v0zj4ognzu.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\fgr7e9bk12-ynyaa8k90p.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\ful6swbo96-hrwsygsryq.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\gfw3s01epx-c63t5i9ira.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\gu4rujhmoz-ft3s53vfgj.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\vj92u8c89j-4094rpi4f9.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\heyyuv3adx-6pdc2jztkx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\wgo9a2v5d7-hd3gran6i8.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\jgar8oo36w-iovd86k7lj.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\z09kdjj1r7-ltid2c489k.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\ha3fm2gfjo-kbrnm935zg.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\5vqywcz5dv-8vyfqsqgz1.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\1p2ji96imy-y7v9cxd14o.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\49nxs201du-u9q1upor1n.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\nw2ug1id5l-h1s4sie4z3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\wth69e65x1-4d85u1mtcx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\nue0xhqvho-0j3bgjxly4.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\k4vx4yei2q-03hjc8e09r.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\a0mc89dpo6-48y08845bh.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\0cfzm1qc69-356vix0kms.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\7481j79q1v-83jwlth58m.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\54vgqfe22u-mrlpezrjn3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\irquof7fh5-worgj0nhwm.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\dubr0vvef5-gk0pw8i4co.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\pl0ol9tkv5-x0q3zqp4vz.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\w96qw5m2f9-d6nrnj6jjx.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\41f5rgtot7-m9qm4tazc0.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\lrfgo92w2p-ttgo8qnofa.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\l9nx3wndf8-jjsuc0puko.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\tedta6n9g1-9vr69e8ynj.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\0l7ww8ksum-87fc7y1x7t.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\xa1fmx6db0-mlv21k5csn.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\xmglhbl0jp-vdmmrd8tt3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\compressed\3ikv3xe69d-vdmmrd8tt3.gz
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNot.DE046379.Up2Date
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\refint\StudyNoteProject.dll
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.pdb
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\StudyNoteProject.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\GitTestForPR\StudyNoteProject\проект\Notes\obj\Debug\net9.0\ref\StudyNoteProject.dll

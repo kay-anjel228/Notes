@@ -1,33 +1,33 @@
 ﻿@page
 @model StudyNoteProject.Pages.Shared.IndexModel
 @{
-	ViewData["Title"] = "Главная";
+    ViewData["Title"] = "Главная";
 }
 
 <div class="container mt-5">
-	<div class="row justify-content-center">
-		<div class="col-md-8 col-lg-6">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
             @if (!string.IsNullOrEmpty(Model.Message))
             {
                 <div class="alert alert-warning">
-                    @Model.Message;
+                    @Model.Message
                 </div>
             }
             @if (Model.IsAuthorized)
             {
                 <div class="card shadow">
-                    <div class="cardaccordion-body text-center">
-                        <h2 class="md3">Здраствуйте, @Model.CurrentUserName, @Model.CurrentUserLogin.</h2>
+                    <div class="card-body text-center">
+                        <h2 class="mb-3">Здравствуйте, @Model.CurrentUserName (@Model.CurrentUserLogin).</h2>
                         <p class="text-muted">
-                            Вы успешно вошли в аккаунт.
+                            Вы успешно вошли в аккаунт
                         </p>
 
-                        <div class="d-flex justify-content-center gap-2">
+                        <div class="d-flex justify-content-center gap-2 mb-3">
                             <a asp-page="/MyNotes" class="btn btn-primary">Мои записи</a>
                         </div>
 
                         <form method="post" asp-page-handler="Logout">
-                            <button type="submit" class="btn btn-danger">
+                            <button type="submit" class="btn btn-outline-danger btn-sm">
                                 Выйти
                             </button>
                         </form>
@@ -53,7 +53,7 @@
 
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link"
-                                        id="login-tab"
+                                        id="register-tab"
                                         data-bs-toggle="tab"
                                         data-bs-target="#register"
                                         type="button"
@@ -68,17 +68,16 @@
                                 <form method="post" asp-page-handler="Login">
                                     <div class="mb-3">
                                         <label class="form-label">Логин</label>
-                                        <input asp-for="LoginLogin" class="form-control" />
+                                        <input asp-for="LoginLogin" class="form-control" required />
                                     </div>
 
                                     <div class="mb-3">
                                         <label class="form-label">Пароль</label>
-
-                                        <div class="input-group">
+                                        <div class="input-group mb-3">
                                             <input id="loginPassword"
                                                    asp-for="LoginPassword"
                                                    type="password"
-                                                   class="form-control" />
+                                                   class="form-control" required />
 
                                             <button type="button"
                                                     class="btn btn-outline-secondary"
@@ -87,6 +86,7 @@
                                             </button>
                                         </div>
                                     </div>
+                                    <button type="submit" class="btn btn-primary w-100">Войти</button>
                                 </form>
                             </div>
 
@@ -94,22 +94,22 @@
                                 <form method="post" asp-page-handler="Register">
                                     <div class="mb-3">
                                         <label class="form-label">Имя</label>
-                                        <input asp-for="RegisterName" class="form-control" />
+                                        <input asp-for="RegisterName" class="form-control" required />
                                     </div>
                                     <div class="mb-3">
                                         <label class="form-label">Логин</label>
-                                        <input asp-for="RegisterLogin" class="form-control" />
+                                        <input asp-for="RegisterLogin" class="form-control" required />
                                     </div>
 
                                     <div class="mb-3">
                                         <label class="form-label">Пароль</label>
-                                        <input asp-for="RegisterPassword" type="password" class="form-control" />
+                                        <input asp-for="RegisterPassword" type="password" class="form-control" required />
                                     </div>
                                     <div class="mb-3">
                                         <label class="form-label">Повторите пароль</label>
-                                        <input asp-for="RegisterRepeatPassword" type="password" class="form-control" />
+                                        <input asp-for="RegisterRepeatPassword" type="password" class="form-control" required />
                                     </div>
-                                    <button type="submit" class="btn btn-primary w=100">
+                                    <button type="submit" class="btn btn-primary w-100">
                                         Зарегистрироваться
                                     </button>
                                 </form>
@@ -118,6 +118,6 @@
                     </div>
                 </div>
             }
-		</div>
-	</div>
+        </div>
+    </div>
 </div>

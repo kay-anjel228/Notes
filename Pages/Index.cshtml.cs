@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc;
 using StudyNoteProject.Data;
 using StudyNoteProject.Models;
 using StudyNoteProject.Services;
@@ -21,6 +20,7 @@ namespace StudyNoteProject.Pages.Shared
             _passwordHasher = new PasswordHasher<User>();
             _currentUserService = currentUserService;
         }
+
         [BindProperty]
         public string RegisterName { get; set; } = string.Empty;
         [BindProperty]
@@ -39,6 +39,7 @@ namespace StudyNoteProject.Pages.Shared
         public string CurrentUserName { get; set; } = string.Empty;
         public string CurrentUserLogin { get; set; } = string.Empty;
         public string Message { get; set; } = string.Empty;
+
         public void OnGet()
         {
             LoadUser();
@@ -49,7 +50,7 @@ namespace StudyNoteProject.Pages.Shared
             LoadUser();
             if (string.IsNullOrEmpty(RegisterName)
                 || string.IsNullOrEmpty(RegisterLogin)
-                || string.IsNullOrEmpty(RegisterPassword) == null)
+                || string.IsNullOrEmpty(RegisterPassword))
             {
                 Message = "Заполните все поля регистрации";
                 return Page();
@@ -62,7 +63,7 @@ namespace StudyNoteProject.Pages.Shared
             }
             if (RegisterPassword != RegisterRepeatPassword || string.IsNullOrEmpty(RegisterRepeatPassword))
             {
-                Message = "Пароль не сходиться.";
+                Message = "Пароли не сходятся";
                 return Page();
             }
             var user = new User
@@ -86,21 +87,20 @@ namespace StudyNoteProject.Pages.Shared
             LoadUser();
             if (string.IsNullOrEmpty(LoginLogin) || string.IsNullOrEmpty(LoginPassword))
             {
-                Message = "Введите логин и пароль.";
+                Message = "Введите логин и пароль";
                 return Page();
             }
             var user = _context.User.FirstOrDefault(u => u.Login == LoginLogin);
 
             if (user == null)
             {
-                Message = "Неверный логин или пароль.";
+                Message = "Неверный логин или пароль";
                 return Page();
             }
             var res = _passwordHasher.VerifyHashedPassword(
                     user,
                     user.HashPassword,
                     LoginPassword
-
                 );
 
             if (res == PasswordVerificationResult.Failed)
@@ -113,10 +113,15 @@ namespace StudyNoteProject.Pages.Shared
             return RedirectToPage();
         }
 
+        public IActionResult OnPostLogout()
+        {
+            _currentUserService.SignOut(HttpContext);
+            return RedirectToPage();
+        }
+
         private void LoadUser()
         {
-
-            var user = _currentUserService.GetCurrentUser(HttpContext); ;
+            var user = _currentUserService.GetCurrentUser(HttpContext);
 
             if (user == null)
             {
@@ -127,7 +132,6 @@ namespace StudyNoteProject.Pages.Shared
             IsAuthorized = true;
             CurrentUserName = user.Name;
             CurrentUserLogin = user.Login;
-
         }
     }
 }

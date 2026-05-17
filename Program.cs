@@ -5,7 +5,6 @@ using StudyNoteService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddControllers();
 builder.Services.AddControllersWithViews();
@@ -26,7 +25,6 @@ builder.Services.AddScoped<INoteService, NoteService>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
@@ -42,7 +40,7 @@ app.MapStaticAssets();
 app.MapRazorPages()
    .WithStaticAssets();
 
-app.Run();
-
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.Run();
